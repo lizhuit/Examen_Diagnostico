@@ -1,4 +1,4 @@
-public class Avioneta implements iAvioneta{
+public class Avioneta extends Avion implements iAvioneta{
 
     public String volar() {
         return null;
